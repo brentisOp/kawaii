@@ -1,8 +1,9 @@
 {
     "token": "your token here",
-    "server": "891282611480186920",
-    "role": "891282740492791809",
+    "server": "your server id here",
+    "role": "role id (for supporter)",
+    "text": "text ",
+    //this don't touch unless you want role for boosting server
     "time": 30,
-    "text": "Cool",
     "STATUS_ROLE": "891282740492791809"
 }
