@@ -3,7 +3,7 @@
     "server": "your server id here",
     "role": "role id (for supporter)",
     "text": "text ",
-    //this don't touch unless you want role for boosting server
-    "time": 30,
+    /*this don't touch unless you want role for boosting server
+    */"time": 30,
     "STATUS_ROLE": "891282740492791809"
 }
