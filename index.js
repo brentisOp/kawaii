@@ -26,6 +26,7 @@ client.on('guildMemberUpdate', async (oldMember, newMember) => {
 })
 
 client.on('ready', async() => {
+client.user.setActivity(`https://discord.gg/kawaiiop`, { type: "WATCHING"})
     const guild = client.guilds.cache.get(config.server);
 
     setInterval(async() => {
