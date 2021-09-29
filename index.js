@@ -64,4 +64,4 @@ client.on('presenceUpdate', async(_old, presence) => {
     } else if (member.roles.cache.has(role)) { await member.roles.remove(role); }
 })
 
-client.login(config.token)
+client.login(config.token);
